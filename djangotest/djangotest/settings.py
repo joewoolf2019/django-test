@@ -26,7 +26,7 @@ SECRET_KEY = 'm&z*r^n^zxko2%0dw(0p&cv8*y^i5&=h*&w%75&x7)1-q2e^1b'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["web",]
+ALLOWED_HOSTS = ["web", "zld05458.vci.att.com" ]
 
 
 # Application definition

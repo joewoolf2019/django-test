@@ -1,4 +1,4 @@
-#!/home/joe/docker/projects/django-test/virtenv/bin/python3
+#!/home/wj3525/docker-test/django-test/virtenv/bin/python3
 from django.core import management
 
 if __name__ == "__main__":
